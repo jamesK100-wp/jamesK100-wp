@@ -53,3 +53,7 @@ Flask + WhatsApp Cloud API
 
 📫 Email:
 james.kandikatte@gmail.com
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jamesK100-wp&show_icons=true&theme=tokyonight"/>
+</p>
