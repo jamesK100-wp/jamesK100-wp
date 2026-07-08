@@ -56,4 +56,14 @@ james.kandikatte@gmail.com
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jamesK100-wp&show_icons=true&theme=tokyonight"/>
+</p> 
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesK100-wp&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesK100-wp&layout=compact&theme=tokyonight"/>
+</p>
+
+![](https://komarev.com/ghpvc/?username=jamesK100-wp&color=blue)
