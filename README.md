@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm James K</h1>
 
-<!--
-**jamesK100-wp/jamesK100-wp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Python Developer | Full Stack Learner | Data Analysis Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 MCA Student at MET Institute of Computer Science
+
+💻 Passionate about Python, Flask, SQL, and Web Development
+
+📊 Interested in Data Analysis & Automation
+
+🌱 Currently Learning
+
+- Python
+- Flask
+- React
+- SQL
+- AI Tools
+
+---
+
+## 🚀 Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Flask
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🌦 Weather-Zilla
+Weather App using Python & OpenWeather API
+
+### 🛒 Ecommerce Website
+PHP + MySQL
+
+### 🤖 Smart Ad Interaction System
+Flask + WhatsApp Cloud API
+
+---
+
+📫 Email:
+james.kandikatte@gmail.com
