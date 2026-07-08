@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James K</h1>
+<h1 align="center">Hi 👋, I'm James Kandikatte </h1>
 
 <h3 align="center">
 Python Developer | Full Stack Learner | Data Analysis Enthusiast
