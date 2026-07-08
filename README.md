@@ -67,3 +67,23 @@ james.kandikatte@gmail.com
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jamesK100-wp&color=blue)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+</p>
