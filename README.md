@@ -87,3 +87,7 @@ james.kandikatte@gmail.com
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Full+Stack+Learner;Data+Analysis+Enthusiast;Always+Learning+New+Technologies"/>
+</p>
