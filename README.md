@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm James Kandikatte</h1>
 
-<h3 align="center">📊 Data Analysis Intern @ MouthShut.com | 🐍 Python Developer | ☕ Java & Spring Boot</h3>
+<h3 align="center">📊 Data Analysis @ MouthShut.com | 🐍 Python Developer | ☕ Java & Spring Boot</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Data+Analysis+Intern+at+MouthShut.com;Python+Developer;Java+%7C+Spring+Boot+Developer;Data+Analysis+%26+Automation;AI+%26+Full+Stack+Enthusiast" alt="Typing SVG" />
